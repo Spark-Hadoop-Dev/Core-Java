@@ -14,9 +14,8 @@ Index
 ✓ -difference b/w static & instance content
 ✓ -constructors in java
 
-
-
 2. Object Oriented Programming Concept that a Hadoop Developer should be aware of
+
 
 ✓ Object
 ✓ Class
@@ -142,6 +141,5 @@ class <any_class_name>       //A User Defined Object/Data Type
 
 2. Object Oriented Programming Concept that a Hadoop Developer should be aware of:
 ==================================================================================
-
 > What is Object?
 An Object is a physical entity; it contains some state and related behavior.
